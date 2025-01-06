@@ -3,4 +3,3 @@
       { "source": "/(.*)", "destination": "/app/en/page.tsx" }
     ]
   }
-  

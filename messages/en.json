@@ -6,6 +6,49 @@
   "Navigation": {
     "home": "Home",
     "about": "About RickedStudios",
+    "services": "Services",
+    "games": "Games",
+    "career": "Career",
+    "blog": "Blog",
     "contact": "Contact"
+  },
+  "About": {
+    "title": "About RickedStudios",
+    "description": "Bringing people together through the power of play",
+    "yearsExperience": "Years Of Experience",
+    "downloads": "Downloads",
+    "gamesLaunched": "Games Launched",
+    "gamingProjectsDelivered": "Gaming Projects Delivered",
+    "exploreGames": "Explore Our Games"
+  },
+  "Services": {
+    "title": "Our Comprehensive Game Development Services",
+    "description": "End-to-end game development, revamping, and outsourcing services. Immersive technology expertise for top-class gaming experiences",
+    "gameArt": "Game Art",
+    "gameDevelopment": "Game Development",
+    "gameAnimation": "Game Animation",
+    "gameQATesting": "Game QA Testing",
+    "outstaffing": "Out staffing",
+    "gameUIUX": "Game UI/UX",
+    "startProject": "Start Your Projects"
+  },
+  "Games": {
+    "title": "Crafting Unforgettable Gaming Experiences",
+    "description": "Our projects feature unique mechanics, fine-tuned gameplay, and eye-catching visual style. Over 100 million people play our games every month",
+    "horrorAdventure": "Horror Adventure",
+    "mobile": "Mobile",
+    "actionRPG": "Action RPG",
+    "pc": "PC",
+    "viewAllProjects": "View All Project"
+  },
+  "Career": {
+    "title": "Join a team of passionate people",
+    "description": "We are always building towards an efficient and collaborative team of the best game developers around.",
+    "checkOpenPositions": "Check Open Positions"
+  },
+  "Blog": {
+    "title": "Blog Standard",
+    "description": "Professional Game design and Development services since 1995",
+    "news": "News"
   }
 }
